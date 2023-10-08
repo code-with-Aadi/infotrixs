@@ -1,0 +1,36 @@
+.login {
+    background-color: lightblue;
+    max-width: 500px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.login h2 {
+    font-size: 35px;
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 5px;
+}
+
+.login p {
+    margin: 1rem 0;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    display: block;
+    margin: 8px 0 20px;
+}
+
+button {
+    margin: auto;
+    display: block;
+    background-color: #2da59f;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
